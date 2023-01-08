@@ -1,0 +1,41 @@
+[
+  {
+    "id": 0,
+    "question": "Necesen?",
+    "answer": [
+      "yaxsi", 
+      "pis", 
+      "normal", 
+      "ne sen sorus, ne de men deyim"
+    ],
+    "correctAnswer": 0
+  },
+  {
+    "id": 1,
+    "question": "Ne var ne yox?",
+    "answer": [
+      "yavas yavas", 
+      "belede", 
+      "idare edirik", 
+      "nefes aliriq"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 2,
+    "question": "Veziyyet?",
+    "answer": [
+      "Sukur sende",
+      "Sorusmayeee",
+      "Durgunculuqdu",
+      "Dvijeniya dayanibe"
+    ],
+    "correctAnswer": 1
+  },
+  {
+    "id": 3,
+    "question": "Is Huc?",
+    "answer": ["DTX", "MTN", "MVD", "KKB"],
+    "correctAnswer": 3
+  }
+]

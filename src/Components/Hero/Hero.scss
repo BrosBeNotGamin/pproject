@@ -1,0 +1,51 @@
+.hero {
+  margin-bottom: 11em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 22em 1em;
+  width: 100%;
+  gap: 3em;
+  .hero-txt {
+    width: 50%;
+    h1 {
+      font-size: 6em;
+      letter-spacing: 0.09em;
+    }
+    p {
+      margin: 2em 0;
+      color: grey;
+      font-size: 2em;
+    }
+    button {
+      padding: 1em 2em;
+      font-size: 2em;
+      border: 2px solid rebeccapurple;
+      color: rebeccapurple;
+      background: transparent;
+      font-weight: 600;
+      transition: 0.3s;
+      cursor: pointer;
+    }
+    button:hover {
+      border-radius: 0.8em;
+      background: rebeccapurple;
+      color: #fff;
+    }
+  }
+  .hero-img {
+    max-width: 100em;
+    max-height: 100em;
+    border-radius: 3em;
+    overflow: hidden;
+  }
+  @media screen and (max-width: 740px) {
+    padding: 2em;
+     .hero-txt {
+        width: 100%;
+    }
+    .hero-img {
+      display: none;
+    }
+  }
+}

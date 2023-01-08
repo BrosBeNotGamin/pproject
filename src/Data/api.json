@@ -1,0 +1,122 @@
+[
+  {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"Which famous world leader is famed for the saying, 'Let them eat cake' yet is rumored that he\/she never said it at all?",
+        "correct_answer":2,
+        "incorrect_answers":[
+           "Czar Nicholas II",
+           "Elizabeth I",
+           "Marie Antoinette",
+           "Henry VIII"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"In which year did the Invasion of Kuwait by Iraq occur?",
+        "correct_answer":0,
+        "incorrect_answers":[
+           "1990",
+           "1992",
+           "1988",
+           "1986"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"In 1720, England was in massive debt, and became in involved in the South Sea Bubble. Who was the main mastermind behind it?",
+        "correct_answer":3,
+        "incorrect_answers":[
+           "Daniel Defoe",
+           "Robert Harley",
+           "John Churchill",
+           "John Blunt"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"How long did World War II last?",
+        "correct_answer":2,
+        "incorrect_answers":[
+           "4 years",
+           "5 years",
+           "6 years",
+           "7 years"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"Who was among those killed in the 2010 Smolensk, Russia plane crash tragedy?",
+        "correct_answer":1,
+        "incorrect_answers":[
+           "Pope John Paul II",
+           "The Polish President",
+           "Bang-Ding Ow",
+           "Albert Putin"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"Which country was Josef Stalin born in?",
+        "correct_answer":1,
+        "incorrect_answers":[
+           "Russia",
+           "Georgia",
+           "Germany",
+           "Poland"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"Who led the Communist Revolution of Russia?",
+        "correct_answer":2,
+        "incorrect_answers":[
+           "Joseph Stalin",
+           "Vladimir Putin",
+           "Vladimir Lenin",
+           "Mikhail Gorbachev"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"What is the historical name of Sri Lanka?",
+        "correct_answer":3,
+        "incorrect_answers":[
+           "Myanmar",
+           "Colombo",
+           "Badulla",
+           "Ceylon"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"Abolitionist John Brown raided the arsenal in which Virginia Town?",
+        "correct_answer":0,
+        "incorrect_answers":[
+           "Harpers Ferry",
+           "Richmond",
+           "Harrisonburg",
+           "Martinsburg"
+        ]
+     },
+     {
+        "category":"History",
+        "difficulty":"easy",
+        "question":"The Ottoman Empire was dissolved after their loss in which war?",
+        "correct_answer":1,
+        "incorrect_answers":[
+           "Crimean War",
+           "World War I",
+           "Serbian Revolution",
+           "Second Balkan War"
+    ]
+  }
+]
